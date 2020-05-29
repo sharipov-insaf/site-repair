@@ -300,6 +300,7 @@ position: relative;
 	right: -270px;
 	top: -480px;
 	z-index: 1;
+	overflow-x: hidden;
 }
 
 .description {
@@ -359,7 +360,7 @@ position: relative;
 }
 
 .gallery__one {
-	
+
 }
 
 .gallery__one img {
